@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Blank New Tab",
+  "version": "1.0",
+  "description": "Emblanken your new tab",
+  "chrome_url_overrides": {
+    "newtab": "./index.html"
+  },
+  "icons": {
+    "16": "assets/favicon_ntp-100.png",
+    "32": "assets/favicon_ntp-200.png"
+  }
+}
